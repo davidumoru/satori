@@ -1,4 +1,4 @@
-# Satory
+# Satori
 
 Generate personalised roadmaps to learn anything
 
